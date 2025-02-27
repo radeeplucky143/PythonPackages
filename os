@@ -1,1 +1,0 @@
-The os.path.basename() function in Python is part of the os.path module, which provides utilities for manipulating filesystem paths in a platform-independent way. Specifically, os.path.basename() extracts and returns the final component (i.e., the file name or directory name) from a given file path.
